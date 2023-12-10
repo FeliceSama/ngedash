@@ -475,6 +475,23 @@ h1, h2, h3, h4, h5, h6 {
   background: #91322f;
 }
 
+#hero .btn-get-dashboard {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #fff;
+  background: #ff5dce;
+}
+
+#hero .btn-get-dashboard:hover {
+  background: #ff36c3;
+}
+
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
   width: 100%;
